@@ -2,4 +2,6 @@
 Test for Git
 my android helloworld!
 
-my add file test demo 哈哈
+my add file test demo 
+
+Creating a new branch is quick.
